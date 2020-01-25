@@ -1,5 +1,5 @@
-#!/usr/bin/bash/
-#
+#! / usr / bin / bash / sh instahack2.sh
+#allt.madureira
 #
 if [ "oi" = "1" ];then
 find Brute-Force; find Instagram
