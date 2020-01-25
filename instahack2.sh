@@ -12,8 +12,8 @@ fi
 #
 #
 pkg install python3
-cd Instagram
-clear
+cd Instagram @allt.madureira
+Claro
 figlet Instahack2
 #
 #MENU
